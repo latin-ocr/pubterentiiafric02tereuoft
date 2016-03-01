@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pubterentiiafric02tereuoft/pubterentiiafric02tereuoft_0007.png"; bbox 0 0 1966 3302; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 246 1121 1612 1201">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 246 1121 1612 1201">
+     <span class='ocr_line' id='line_1_1' title="bbox 246 1121 1612 1201; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 246 1124 536 1200; x_wconf 83' lang='lat' dir='ltr'><strong>PUB.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 615 1123 1235 1200; x_wconf 84' lang='lat' dir='ltr'><strong>TERENTII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1315 1121 1612 1201; x_wconf 79' lang='lat' dir='ltr'><strong>AFRI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 561 1430 1286 1492">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 561 1430 1286 1492">
+     <span class='ocr_line' id='line_1_2' title="bbox 561 1430 1286 1492; baseline 0 -1"><span class='ocrx_word' id='word_1_4' title='bbox 561 1430 1030 1491; x_wconf 85' lang='lat' dir='ltr'><strong>COMOEDIAE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1097 1433 1286 1492; x_wconf 85' lang='lat' dir='ltr'><strong>SEX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 799 1883 1043 1927">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 799 1883 1043 1927">
+     <span class='ocr_line' id='line_1_3' title="bbox 799 1883 1043 1927; baseline 0 -2"><span class='ocrx_word' id='word_1_6' title='bbox 799 1883 936 1926; x_wconf 88' lang='lat' dir='ltr'>VOL.</span> <span class='ocrx_word' id='word_1_7' title='bbox 981 1885 1043 1927; x_wconf 85' lang='grc' dir='ltr'><strong>Π.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
